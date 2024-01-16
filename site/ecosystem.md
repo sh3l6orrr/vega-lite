@@ -1,4 +1,4 @@
----
+--- 
 layout: page
 menu: ecosystem
 title: Vega-Lite Ecosystem
